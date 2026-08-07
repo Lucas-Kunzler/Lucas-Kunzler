@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Lucas! 👋
 
-<!--
-**Lucas-Kunzler/Lucas-Kunzler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Internet Systems student from Brazil, focused on Full Stack Web Development.
 
-Here are some ideas to get you started:
+## 🚀 Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Front-end
+- React
+- TypeScript
+- HTML
+- CSS
+
+### Back-end
+- Node.js
+- Fastify
+- Prisma
+- Knex
+
+### Database
+- PostgreSQL
+- SQLite
+
+### Tools
+- Git
+- GitHub
+- Docker
+
+## 📌 Featured Projects
+
+### 🍽️ Daily Diet API
+REST API for meal management using Fastify, TypeScript, Knex and SQLite.
+
+### 🏋️ GymPass Style API
+Gym management API with JWT authentication, Prisma and PostgreSQL.
+
+### 💸 Refund System
+Expense reimbursement application built with React and TypeScript.
+
+## 🎯 Currently Learning
+
+- Clean Architecture
+- SOLID Principles
+- Docker
+- Automated Testing
+
+## 📫 Contact
+
+- LinkedIn: linkedin.com/in/lucas-kunzler
+- Email: kunzler.dev@gmail.com
