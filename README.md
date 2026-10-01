@@ -14,7 +14,6 @@ I'm an Internet Systems student from Brazil, focused on Full Stack Web Developme
 - Node.js
 - Fastify
 - Prisma
-- Knex
 
 ### Database
 - PostgreSQL
@@ -45,5 +44,5 @@ Expense reimbursement application built with React and TypeScript.
 
 ## 📫 Contact
 
-- LinkedIn: linkedin.com/in/lucas-kunzler
+- LinkedIn: [linkedin.com/in/lucas-kunzler](https://www.linkedin.com/in/lucas-kunzler-02a44a351/)
 - Email: kunzler.dev@gmail.com
